@@ -24,9 +24,5 @@
     <li>Landing Page Designs</li>
   </ul>
 
-  <h2>Resume</h2>
-  <a href="VRB_UI_Frontend_Developer_7Years.pdf" target="_blank">
-    Download Resume
-  </a>
 </body>
 </html>
